@@ -7,7 +7,7 @@ When creating a new Middleman project, you can choose a template. This template 
 ```bash
 mkdir ~/.middleman
 cd ~/.middleman
-git clone 
+git clone git://github.com/cavneb/middleman-backbone.git
 ```
 
 Once you have the template project in ~/.middleman, you can create a new project by using the following command:
