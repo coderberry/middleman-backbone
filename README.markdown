@@ -1,6 +1,6 @@
 ## Backbone Template for Middleman
 
-(Middleman)[http://middlemanapp.com] is a command-line tool for creating static websites using all the shortcuts and tools of the modern web development environment.
+[Middleman](http://middlemanapp.com) is a command-line tool for creating static websites using all the shortcuts and tools of the modern web development environment.
 
 When creating a new Middleman project, you can choose a template. This template can be used by placing the contents into the ~/.middleman folder.
 
